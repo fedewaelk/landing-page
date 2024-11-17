@@ -17,3 +17,6 @@ Styling and layout with CSS, including flexbox for responsive alignment.
 Managing content such as fonts, colors, and images effectively.
 Using Git for version control, with meaningful commits during development.
 This README serves as both an introduction and a reflection on the project, documenting the progress and key learnings achieved.
+
+Credits
+The images used in this project are free stock from Pixabay, and we would like to acknowledge and thank their creators: Lothar Dieterich, Leopictures, Samuel Faber, nearshit17 and Thomas Bock.
