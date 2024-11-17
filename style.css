@@ -15,17 +15,22 @@ body {
     justify-content: space-between;
 }
 
-.left h1 {
+.hero h1 {
     font-size: 48px;
     color: #f9faf8;
     font-weight: 900;
+    margin: 0;
 }
 
-.left p,
+.hero p,
 .header ul {
     font-size: 18px;
     color: #e5e7eb;
     
+}
+
+.hero p {
+    margin-top: 0;
 }
 
 a {
@@ -49,10 +54,40 @@ button,
     background-color: #3882f6;
 }
 
+button {
+    padding: 8px 36px;
+    color: #f9faf8;
+    font-size: 18px;
+    font-weight: 900;
+    border: 0;
+    border-radius: 8px;
+}
+
 .two h2 {
     font-size: 36px;
     color: #1f2937;
     font-weight: 900;
+}
+
+.one {
+    display: flex;
+    gap: 50px;
+    min-height: 480px;
+    align-items: center;
+}
+
+.hero {
+    width: 450px
+}
+
+.placeholder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 240px;
+    width: 520px;
+    background-color: #b5b8bd96;
+    color: #f9faf8;
 }
 
 .three {
