@@ -51,14 +51,10 @@ button {
 
 .one {
     display: flex;
-    gap: 50px;
+    gap: 100px;
     min-height: 480px;
     align-items: center;
     justify-content: space-between;
-}
-
-.hero {
-    width: 450px
 }
 
 .placeholder {
